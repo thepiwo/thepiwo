@@ -3,4 +3,4 @@
 
 ### 😍  Full-Stack Engineering
 ### 🐳  Blockchain Development
-### 🖖  `λ` Functional Programming
+### `λ` Functional Programming
