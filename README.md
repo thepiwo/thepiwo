@@ -1,6 +1,6 @@
 
 ## 🙌  Freelance Developer
 
-### 😍  Full-Stack Engineering
-### 🐳  Blockchain Development
+### 😍 &nbsp;Full-Stack Engineering
+### 🐳 &nbsp;Blockchain Development
 ### `λ` Functional Programming
