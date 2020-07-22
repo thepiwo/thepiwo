@@ -15,5 +15,6 @@ function
   to_str((x, _))                  = Int.to_str(x)
     
 entrypoint fizz_buzz(to : int) : list(string) = 
-  [ to_str((x, [ (m, s) | (m, s) <- [(3, "Fizz"), (5, "Buzz")], if(x mod m == 0) ])) | x <- [1..to] ]
-```
+  let fizz_or_buzz = (x) => [ (m, s) | (m, s) <- [(3, "Fizz"), (5, "Buzz")], if(x mod m == 0) ]
+  [ to_str((x, fizz_or_buzz(x))) | x <- [1..to] ]
+  ```
