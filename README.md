@@ -1,9 +1,8 @@
 
-## 🙌  Founder @unit214
-
 ### 😍 &nbsp;Full-Stack Engineering
-### 🐳 &nbsp;Blockchain Development
 ### `λ` Functional Programming
+### 🐳 &nbsp;Blockchain Development
+### 🏎️ &nbsp;Spec-Driver
 
 ##
 
